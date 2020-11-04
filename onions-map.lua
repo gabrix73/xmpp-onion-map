@@ -5,6 +5,7 @@ onions_map = {
 	["autistici.org"] = "wi7qkxyrdpu5cmvr.onion";
 	["jabber.calyxinstitute.org"] = "ijeeynrc6x2uy5ob.onion";
 	["jabber.ccc.de"] = "okj7xc6j2szr2y75.onion";
+	["jabber.tcpreset.net"] = "7hbyqvu5zdvyjopuho7vxdrzernk7bj76wpev7v4w4wp2nsl5hqg6qyd.onion";
 	["cloak.dk"] = "m2dsl4banuimpm6c.onion";
 	["jabber.cryptoparty.is"] = "cryjabkbdljzohnp.onion";
         ["daemons.cf"] = "daemon4jidu2oig6.onion";
