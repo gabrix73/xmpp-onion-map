@@ -1,4 +1,5 @@
 onions_map = {
+	["7hbyqvu5zdvyjopuho7vxdrzernk7bj76wpev7v4w4wp2nsl5hqg6qyd.onion"] = "7hbyqvu5zdvyjopuho7vxdrzernk7bj76wpev7v4w4wp2nsl5hqg6qyd.onion";
 	["ofrgnmpmv637esay.onion"] = "ofrgnmpmv637esay.onion";
 	["adb-centralen.se"] = "37x6i3wgr2jyublb.onion";
 	["anonymitaet-im-inter.net"] = "rwf5skuv5vqzcdit.onion";
